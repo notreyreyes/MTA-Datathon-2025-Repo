@@ -1,3 +1,8 @@
+  <p align="center">
+    <img src="assets/bus_mta.jpg" alt="MTA Bus" width="800">
+  </p>
+
+
 <section>
   <h1>MTA Bus ACE Enforcement Analysis: Multi-Year Policy Effectiveness Study</h1>
   <p><strong>CUNY Datathon 2025 - Final Submission</strong><br>
@@ -176,6 +181,7 @@ analysis/
 </code></pre>
 
 </section>
+
 
 
 
