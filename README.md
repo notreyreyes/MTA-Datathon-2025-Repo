@@ -13,6 +13,11 @@
   <p>Our comparative analysis of NYC bus lane violations across 2024–2025 reveals critical insights into the effectiveness of the Automated Camera Enforcement (ACE) program. By analyzing more than 2 million violations, we found enforcement-only approaches show declining effectiveness while comprehensive policy interventions achieve dramatic results.</p>
 
   <h2>Major Discoveries</h2>
+
+  <p align="center">
+    <img src="assets/bus_routes_by_violation.jpeg" alt="Bus Routes by Violation" width="600">
+  </p>
+  
   <ul>
     <li><strong>ACE Program Multi-Metric Failure:</strong> Camera-enforced routes show a 6% speed decline (8.6 → 8.1 MPH) and persistent high violation rates.</li>
     <li><strong>Policy Intervention Success:</strong> Congestion pricing achieved a 75% violation reduction in the Manhattan CBD area.</li>
@@ -115,6 +120,10 @@
   </ul>
 
   <h4>For Enforcement System Reform</h4>
+
+  <p align="center">
+    <img src="assets/violation_status_distribution.jpeg" alt="Violation Status Distribution" width="600">
+  </p>
   <ul>
     <li>Exemption process overhaul: stricter approval and monitoring for repeat exempt vehicles</li>
     <li>Geographic targeting: focus enforcement resources on identified hotspot areas</li>
@@ -167,6 +176,7 @@ analysis/
 </code></pre>
 
 </section>
+
 
 
 
