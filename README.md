@@ -131,25 +131,26 @@
   <h2>Conclusion</h2>
   <p>The ACE program shows mixed effectiveness depending on intervention type. While congestion pricing achieves dramatic reductions in violations (75%), enforcement-only approaches on high-utilization routes show declining effectiveness. These findings have implications for transportation equity and resource allocation. Next steps include integrating MTA operational data for comprehensive speed analysis, expanding route types, and developing predictive models for intervention effectiveness.</p>
 
-  <h2>Repository Structure</h2>
-  <pre><code>
-  README.md (this file)
-  assets/
-    cuny_routes_analysis.html
-    exempt_violations_hotspots.html
-    congestion_pricing_fixed.html
-    bus_speed_trends.jpeg
-    m15_m101_routes.jpeg
-    bus_routes_by_violation.jpeg
-    congestion_pricing_violation.jpeg
-    top_cuny_routes.jpeg
-    violation_status_distribution.jpeg
-    cuny_vs_non_cuny_route_violation.jpeg
+ <h2>Repository Structure</h2>
+<pre><code>
+README.md (this file)
+assets/
+  cuny_routes_analysis.html
+  exempt_violations_hotspots.html
+  congestion_pricing_fixed.html
+  bus_speed_trends.jpeg
+  m15_m101_routes.jpeg
+  bus_routes_by_violation.jpeg
+  congestion_pricing_violation.jpeg
+  top_cuny_routes.jpeg
+  violation_status_distribution.jpeg
+  cuny_vs_non_cuny_route_violation.jpeg
+analysis/
+  2024_analysis_methods.ipynb
+  2025_data_processing.py
+  kaggle_interactive_mapping_analysis.ipynb
+</code></pre>
 
-  analysis/
-    2024_analysis_methods.ipynb
-    2025_data_processing.py
-    kaggle_interactive_mapping_analysis.ipynb
-  </code></pre>
 </section>
+
 
