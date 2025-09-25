@@ -173,8 +173,8 @@ analysis/
   2024_analysis_methods.ipynb
   2025_data_processing.py
   kaggle_interactive_mapping_analysis.ipynb
-website/
-  mta_datathon_2025.html
+docs/
+  index.html
   cuny_routes_analysis.html
   exempt_violations_hotspots.html
   congestion_pricing_fixed.html
@@ -188,6 +188,7 @@ website/
 </code></pre>
 
 </section>
+
 
 
 
