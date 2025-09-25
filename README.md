@@ -4,6 +4,8 @@
   Team: Sneha Roy, Alvin Zeng, Rey Reyes, Jeremy Khusial<br>
   Submission Date: September 24, 2025<br>
   Datasets: Combined 2024–2025 MTA Bus Automated Camera Enforcement Violations</p>
+ 
+  **View our LIVE Website:** https://notreyreyes.github.io/MTA-Datathon-2025-Repo/
 
   <h2>Project Video Explanation</h2>
   <p>[Embed video link]</p>
@@ -188,6 +190,7 @@ docs/
 </code></pre>
 
 </section>
+
 
 
 
