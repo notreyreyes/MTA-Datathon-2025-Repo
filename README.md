@@ -70,6 +70,11 @@
 
   <h3>Question 2: Are there repeat offenders among exempt vehicles? Where do violations occur?</h3>
   <p>Supporting map: <code>/assets/exempt_violations_hotspots.html</code></p>
+
+  <p align="center">
+  <img src="assets/exempt_violations.png" alt="Exempt Violations Analysis" width="600">
+  </p>
+
   <p><strong>Key findings (2025 data):</strong></p>
   <ul>
     <li>425,814 exempt violations (25.5% of total dataset)</li>
@@ -157,6 +162,7 @@ analysis/
 </code></pre>
 
 </section>
+
 
 
 
