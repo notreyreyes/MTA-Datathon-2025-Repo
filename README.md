@@ -54,6 +54,11 @@
 
   <h3>Question 1: Which routes serve CUNY students and how have bus speeds changed on ACE routes over time?</h3>
   <p>Supporting map: <code>/assets/cuny_routes_analysis.html</code></p>
+
+  <p align="center">
+  <img src="assets/cuny_routes_analysis.png" alt="CUNY Routes Analysis" width="600">
+  </p>
+
   <p><strong>Critical finding:</strong> ACE program shows declining performance across multiple metrics.</p>
   <p><strong>Speed analysis (2023–2024):</strong> Camera-enforced routes experienced an average speed decline from 8.6 MPH to 8.1 MPH (6% reduction). Persistent low speeds (8.1 MPH average) indicate continued lane blockage issues.</p>
   <p><strong>Violation pattern analysis — M101 route (primary CUNY corridor):</strong></p>
@@ -152,5 +157,6 @@ analysis/
 </code></pre>
 
 </section>
+
 
 
