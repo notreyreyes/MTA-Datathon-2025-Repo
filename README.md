@@ -173,9 +173,22 @@ analysis/
   2024_analysis_methods.ipynb
   2025_data_processing.py
   kaggle_interactive_mapping_analysis.ipynb
+website/
+  mta_datathon_2025.html
+  cuny_routes_analysis.html
+  exempt_violations_hotspots.html
+  congestion_pricing_fixed.html
+  bus_speed_trends.jpeg
+  m15_m101_routes.jpeg
+  bus_routes_by_violation.jpeg
+  congestion_pricing_violation.jpeg
+  top_cuny_routes.jpeg
+  violation_status_distribution.jpeg
+  cuny_vs_non_cuny_route_violation.jpeg
 </code></pre>
 
 </section>
+
 
 
 
