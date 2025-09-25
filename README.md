@@ -85,6 +85,11 @@
 
   <h3>Question 3: Congestion Pricing vs. ACE Enforcement Effectiveness</h3>
   <p>Supporting map: <code>/assets/congestion_pricing_fixed.html</code></p>
+
+  <p align="center">
+  <img src="assets/congestion_pricing.png" alt="Congestion Pricing Analysis" width="600">
+  </p>
+
   <p><strong>Dramatic policy contrast:</strong></p>
   <ul>
     <li><strong>Congestion Pricing:</strong> 75% violation reduction in Manhattan CBD. Before Jan 5, 2025: ~8,000 violations/day. After Jan 5, 2025: ~2,000 violations/day.</li>
@@ -162,6 +167,7 @@ analysis/
 </code></pre>
 
 </section>
+
 
 
 
