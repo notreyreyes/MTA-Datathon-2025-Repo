@@ -8,7 +8,7 @@
   **View our LIVE Website:** https://notreyreyes.github.io/MTA-Datathon-2025-Repo/
 
   <h2>Project Video Explanation</h2>
-  <p>[Project Video Link](https://www.youtube.com/watch?v=bpEK0HPFIQs)
+  <p>Project Video Link by Jeremy: https://www.youtube.com/watch?v=bpEK0HPFIQs
 </p>
   <p>The video demonstrates our key findings: M101 route deterioration, congestion pricing success, and policy recommendations based on our two-year comparative analysis.</p>
 
@@ -191,6 +191,7 @@ docs/
 </code></pre>
 
 </section>
+
 
 
 
