@@ -1,7 +1,7 @@
 <section>
   <h1>MTA Bus ACE Enforcement Analysis: Multi-Year Policy Effectiveness Study</h1>
   <p><strong>CUNY Datathon 2025 - Final Submission</strong><br>
-  Team: Sneha Roy, Alvin Zeng, Rey Reyes, Jeremy Khusial<br>
+  Team: Sneha Roy, Alvin Zheng, Rey Reyes, Jeremy Khusial<br>
   Submission Date: September 24, 2025<br>
   Datasets: Combined 2024–2025 MTA Bus Automated Camera Enforcement Violations</p>
  
@@ -191,6 +191,7 @@ docs/
 </code></pre>
 
 </section>
+
 
 
 
